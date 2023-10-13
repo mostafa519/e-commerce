@@ -1,0 +1,18 @@
+
+.AboutEdtting1:hover{
+    background-color: crimson!important ;
+    color: black;
+}
+.AboutEdtting2:hover{
+    background-color:  coral!important ;
+    color: white;
+}
+ 
+.linkEditting2{
+    color: black ;
+    text-decoration-line: none; 
+  }
+.linkEditting2:hover{
+    color: rgb(23, 102, 248) ;
+    text-decoration-line:  underline;
+   }

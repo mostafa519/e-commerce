@@ -1,0 +1,13 @@
+:root{
+  --color : #ef5350
+}
+body{
+  height: 100%;
+  padding: 0;
+  margin: 0 !important;
+  box-sizing: border-box !important;
+}
+button.clear{
+  position: absolute;
+  bottom: 0px;
+}

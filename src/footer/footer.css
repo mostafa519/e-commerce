@@ -1,0 +1,20 @@
+.footer{
+background-color: #aa1818;
+padding: 10px;
+display: flex;
+justify-content: flex-end;
+align-content: flex-end;
+color: white;
+align-items: center;
+margin-top: 50px;
+}
+.footer .flex-footer {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}
